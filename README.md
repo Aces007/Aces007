@@ -21,7 +21,7 @@ Let’s build something beautiful and functional.
 
 ### Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,mqsql" />
   <img src="https://skillicons.dev/icons?i=supabase" title="Supabase" />
 </p>
 
