@@ -16,7 +16,7 @@ Let’s build something beautiful and functional.
 ### Mobile Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" title="React Native (via React)" />
-  <img src="https://skillicons.dev/icons?i=cordova" title="Apache Cordova" />
+  <img src="https://img.shields.io/badge/Cordova-35434F?logo=apachecordova&logoColor=white&style=for-the-badge" />
 </p>
 
 ### Backend & Database
