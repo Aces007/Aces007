@@ -32,7 +32,7 @@ Let’s build something beautiful and functional.
 
 ### Design & Video
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr" />
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,figma" />
   <img src="https://img.shields.io/badge/Filmora-0C69B0?logo=filmora&logoColor=white&style=for-the-badge" />
 </p>
 
