@@ -10,7 +10,7 @@ Let’s build something beautiful and functional.
 
 ### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,php" />
 </p>
 
 ### Mobile Development
